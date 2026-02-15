@@ -31,6 +31,8 @@ If you run command “ git status” in any other folder, it won’t tell git st
 8)To create branch --- “git branch -b “give branch name”. 
 Branches keep different version of files”
 
+9) How to tell which branch we are in - " git branch"
+
 
 
 
