@@ -34,7 +34,29 @@ Branches keep different version of files”
 9) How to tell which branch we are in - " git branch"
 
 
+10) how to push local git repository to git hub
 
+a) First create git repository in github.
+b) create origin in local
+       git remote add origin "URL HTTPS/SSH"
+       Git branch -m main
+       git push origin main
+
+
+11) hoe to bring git repo from github to local.
+if repo is not just there in local then we can clone.
+
+"git clone "URL"   URL - it is HTTPS 
+
+12)How to put new changes from github(remote) to local
+
+"git pull"
+
+13) how to create ssh key pair
+ go to ssh folder " cd .ssh"
+ "ssh-keygen"
+
+copy public key and put in github "setting-SSH keys- create new key and copy this public key there" 
 
 
 
