@@ -38,9 +38,11 @@ Branches keep different version of files”
 
 a) First create git repository in github.
 b) create origin in local
-       git remote add origin "URL HTTPS/SSH"
-       Git branch -m main
-       git push origin main
+       "git remote add origin "URL HTTPS/SSH"   "
+       "Git branch -m main"
+       "git push origin main"
+
+       to update origin-  "git remote set-url origin "URL"
 
 
 11) hoe to bring git repo from github to local.
